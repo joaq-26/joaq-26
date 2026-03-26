@@ -1,7 +1,7 @@
 ## Hi there 👋
 I´m currently learning some programing and creating new ideas. 
 
-Right now i´m with Java, SQL and a bit of JavaScript.
+Right now I´m with Java, SQL and a bit of JavaScript.
 
 <!--
 **joaq-26/joaq-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
