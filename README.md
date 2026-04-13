@@ -4,13 +4,16 @@
 </div>
 
 <h1 align="center">
-   Hi there, Joaquín  
+   Hi there, I´m Joaquín  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=15&duration=5061&pause=963&color=1E95F7&multiline=true&repeat=false&width=609&height=100&lines=I%C2%B4m+currently+learning+some+programing+and+creating+new+ideas.;Right+now+I%C2%B4m+with+Java%2C+SQL+and+a+bit+of+JavaScript.)](https://git.io/typing-svg)
+
 <!--
 I´m currently learning some programing and creating new ideas. 
 Right now I´m with Java, SQL and a bit of JavaScript.
@@ -24,7 +27,6 @@ Right now I´m with Java, SQL and a bit of JavaScript.
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=15&duration=5061&pause=963&color=1E95F7&multiline=true&repeat=false&width=609&height=100&lines=I%C2%B4m+currently+learning+some+programing+and+creating+new+ideas.;Right+now+I%C2%B4m+with+Java%2C+SQL+and+a+bit+of+JavaScript.)](https://git.io/typing-svg)
 
 
 
