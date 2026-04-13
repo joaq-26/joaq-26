@@ -6,7 +6,7 @@
 ## Hi there, Joaq-26 👋
 
 <h3 align="left">
-  ## Hi there, Joaquín  
+   Hi there, Joaquín  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
