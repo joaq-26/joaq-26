@@ -15,7 +15,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=25&duration=3000&pause=200&color=FFFFFF&multiline=true&repeat=false&width=783&height=300&lines=I%C2%B4m+currently+learning+some+programing+and+creating+new+ideas.;Right+now+I%C2%B4m+with+Java%2C+SQL+and+a+bit+of+JavaScript.)](https://git.io/typing-svg)
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=25&duration=3000&pause=200&color=FFFFFF&multiline=true&repeat=false&width=783&height=300&lines=I%C2%B4m+currently+learning+some+programing+and+creating+new+ideas.;Right+now+I%C2%B4m+with+Java%2C+SQL+and+a+bit+of+JavaScript." alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=25&duration=3000&pause=200&color=FFFFFF&multiline=true&repeat=false&width=783&height=300&lines=I%C2%B4m+currently+learning+some+programing+and+creating+new+ideas.;Right+now+I%C2%B4m+with+Java%2C+SQL+and+a+bit+of+JavaScript." alt="Typing SVG" /></a>
 
 
 <!--
