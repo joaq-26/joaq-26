@@ -5,10 +5,10 @@
 
 ## Hi there, Joaq-26 👋
 
-<h3 align="left">
+<h2 align="left">
    Hi there, Joaquín  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h2>
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
