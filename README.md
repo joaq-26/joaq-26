@@ -3,8 +3,6 @@
 I´m currently learning some programing and creating new ideas. 
 Right now I´m with Java, SQL and a bit of JavaScript.
 -->
-
-### 🛠 &nbsp;Tech Stac
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
