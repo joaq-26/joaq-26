@@ -15,6 +15,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=12&duration=5139&pause=1000&color=%23%23FFFFFF&multiline=true&repeat=false&width=435&lines=I%C2%B4m+currently+learning+some+programing+and+creating+new+ideas.;Right+now+I%C2%B4m+with+Java%2C+SQL+and+a+bit+of+JavaScript.)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=5139&pause=1000&color=FFFFFF&multiline=true&repeat=false&width=435&lines=I%C2%B4m+currently+learning+some+programing+and+creating+new+ideas.;Right+now+I%C2%B4m+with+Java%2C+SQL+and+a+bit+of+JavaScript.)](https://git.io/typing-svg)
+
 
 
 <!--
