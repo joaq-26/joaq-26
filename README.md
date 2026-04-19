@@ -44,7 +44,107 @@ Right now I´m with Java, SQL and a bit of JavaScript.
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 -->
 
+<html lang="es">
 
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <link
+      rel="stylesheet"
+      href="./style.css"
+    />
+    <title>Carrusel Infinito</title>
+  </head>
+
+  <body>
+    <section class="carousel">
+      <div class="logos">
+        <img decoding="async"
+          src="./logos/bootstrap-logo.png"
+          alt="Logo Bootstrap"
+        />
+        <img decoding="async"
+          src="./logos/css-logo.png"
+          alt="Logo CSS"
+        />
+        <img decoding="async"
+          src="./logos/html-logo.png"
+          alt="Logo HTML"
+        />
+        <img decoding="async"
+          src="./logos/javascript-logo.png"
+          alt="Logo JavaScript"
+        />
+        <img decoding="async"
+          src="./logos/logo-github.png"
+          alt="Logo GitHub"
+        />
+        <img decoding="async"
+          src="./logos/logo-mysql.png"
+          alt="Logo MySQL"
+        />
+        <img decoding="async"
+          src="./logos/logo-react-router.png"
+          alt="Logo React Router"
+        />
+        <img decoding="async"
+          src="./logos/react-logo.png"
+          alt="Logo React"
+        />
+        <img decoding="async"
+          src="./logos/logo-jwt.png"
+          alt="Logo JWT"
+        />
+      </div>
+
+      <div
+        class="logos"
+        aria-hidden
+      >
+        <img decoding="async"
+          src="./logos/bootstrap-logo.png"
+          alt="Logo Bootstrap"
+        />
+        <img decoding="async"
+          src="./logos/css-logo.png"
+          alt="Logo CSS"
+        />
+        <img decoding="async"
+          src="./logos/html-logo.png"
+          alt="Logo HTML"
+        />
+        <img decoding="async"
+          src="./logos/javascript-logo.png"
+          alt="Logo JavaScript"
+        />
+        <img decoding="async"
+          src="./logos/logo-github.png"
+          alt="Logo GitHub"
+        />
+        <img decoding="async"
+          src="./logos/logo-mysql.png"
+          alt="Logo MySQL"
+        />
+        <img decoding="async"
+          src="./logos/logo-react-router.png"
+          alt="Logo React Router"
+        />
+        <img decoding="async"
+          src="./logos/react-logo.png"
+          alt="Logo React"
+        />
+        <img decoding="async"
+          src="./logos/logo-jwt.png"
+          alt="Logo JWT"
+        />
+      </div>
+    </section>
+  </body>
+
+</html>
 
 
 
