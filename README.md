@@ -11,7 +11,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Premier](https://img.shields.io/badge/-Premier-05122A?style=flat&logo=adobe-Premier)&nbsp;
+
 
 ### I´m currently learning some programing and creating new ideas. 
 ### Right now I´m with Java, SQL and a bit of JavaScript.
