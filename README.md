@@ -19,7 +19,7 @@
 <img width="1166" height="184" alt="pacman" src="https://github.com/user-attachments/assets/4d778242-1030-4095-9964-42e1fe844ff9" />
 
 <img width="1166" height="184" alt="snake" src="https://github.com/user-attachments/assets/75ee55f5-5862-45d7-a2a1-1dabce5433df" />
-
+<svg viewBox="-16 -32 880 192" width="1166" height="184" xmlns="http://www.w3.org/2000/svg">
 
 
 <!-- For now I know how to work with Ilustration, Photoshop,--> 
