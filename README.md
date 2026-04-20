@@ -18,7 +18,7 @@
 
 <img width="1166" height="184" alt="pacman" src="https://github.com/user-attachments/assets/4d778242-1030-4095-9964-42e1fe844ff9" />
 
-https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0
+
 
 
 <!-- For now I know how to work with Ilustration, Photoshop,--> 
