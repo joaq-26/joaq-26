@@ -20,10 +20,12 @@
 <a href="https://github.com/joaq-26">
   <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api?username=joaq-26&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&rank_icon=github&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="tiny roox GitHub Stats" />
 </a>
+<!--
 <a href="https://github.com/joaq-26">
   <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=joaq-26&exclude_repo=Bootstrap-Offline&hide=css,html&layout=compact&show_icons=true&title_color=de2121&text_color=e0cece&icon_color=6aa6f8&bg_color=22272e&langs_count=20" alt="tiny roox GitHub Stats" />
 </a>
 <hr/>
+-->
 
 <div dir="auto" align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg"><img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="70%" alt="Snake Game" style="max-width: 100%;"></a>
