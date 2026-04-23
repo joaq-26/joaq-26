@@ -28,12 +28,12 @@ Estadisticas de tus avances
 </a>
 <hr/>
 -->
-## Snake:
+
 <div dir="auto" align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg"><img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="70%" alt="Snake Game" style="max-width: 100%;"></a>
-   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="210px" alt="Computer illustration" style="max-width: 100%;"></a>
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="440px" alt="Computer illustration" style="max-width: 100%;"></a>
 </div>
--->
+
 
 <!-- For now I know how to work with Ilustration, Photoshop,--> 
 
