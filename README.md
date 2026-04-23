@@ -64,5 +64,4 @@ Right now I´m with Java, SQL and a bit of JavaScript.
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 -->
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:ff2400&height=120&section=footer&animation=fadeIn"/>
