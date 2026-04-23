@@ -16,6 +16,13 @@
 ### I´m currently learning some programing and creating new ideas. 
 ### Right now I´m with Java, SQL and a bit of JavaScript.
 
+
+<!-- ===== ACTIVITY ===== -->
+## 📊 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaq-26&bg_color=0d1117&color=ff8c69&line=ff6a3d&point=ffa07a&area=true&area_color=ff7f50" />
+</p>
+
 <!--
 Estadisticas de tus avances
 <hr/>
