@@ -16,6 +16,13 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+<p align="leght">
+<a href="https://github.com/joaq-26">
+  <img src="https://img.shields.io/badge/GitHub-joaq--26-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
 <!-- ===== What im currently doing  ===== -->
 ### I´m currently learning some programing and creating new ideas. 
 ### Right now I´m with Java, SQL and a bit of JavaScript.
@@ -33,6 +40,9 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg"><img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="70%" alt="Snake Game" style="max-width: 100%;"></a> 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="240px" alt="Computer illustration" style="max-width: 100%;"></a>
 </div>
+
+
+
 
 <!-- ===== Estadistics of how i´m going  ===== -->
 
