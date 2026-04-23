@@ -16,8 +16,10 @@
 ### I´m currently learning some programing and creating new ideas. 
 ### Right now I´m with Java, SQL and a bit of JavaScript.
 
-<img width="1166" height="184" alt="pacman" src="https://github.com/user-attachments/assets/4d778242-1030-4095-9964-42e1fe844ff9" />
 
+<!--
+<img width="1166" height="184" alt="pacman" src="https://github.com/user-attachments/assets/4d778242-1030-4095-9964-42e1fe844ff9" />
+-->
 
 
 
