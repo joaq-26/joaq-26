@@ -16,12 +16,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-<p align="leght">
-<a href="https://github.com/joaq-26">
-  <img src="https://img.shields.io/badge/GitHub-joaq--26-181717?style=for-the-badge&logo=github">
-</a>
 
-</p>
 
 <!-- ===== What im currently doing  ===== -->
 ### I´m currently learning some programing and creating new ideas. 
@@ -80,5 +75,18 @@ Right now I´m with Java, SQL and a bit of JavaScript.
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 -->
+
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+<p align="center">
+<a href="https://github.com/joaq-26">
+  <img src="https://img.shields.io/badge/GitHub-joaq--26-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:ff2400&height=120&section=footer&animation=fadeIn"/>
