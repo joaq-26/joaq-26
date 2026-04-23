@@ -3,6 +3,9 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
+
+
+
 <h1 align="left">
    Hi there, I´m Joaquín  
     <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
@@ -63,4 +66,4 @@ Right now I´m with Java, SQL and a bit of JavaScript.
 -->
 
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=120&section=footer&animation=fadeIn"/>
