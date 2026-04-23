@@ -18,6 +18,10 @@
 
 <img width="1166" height="184" alt="pacman" src="https://github.com/user-attachments/assets/4d778242-1030-4095-9964-42e1fe844ff9" />
 
+<div dir="auto" align="center">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg"><img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="70%" alt="Snake Game" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="210px" alt="Computer illustration" style="max-width: 100%;"></a>
+</div>
 
 
 <!-- For now I know how to work with Ilustration, Photoshop,--> 
