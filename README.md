@@ -38,6 +38,12 @@
 
 
 
+<!-- ===== Current Streak ===== -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=joaq-26&theme=dark&background=0d1117&hide_border=true&border_radius=10" alt="GitHub Streak" width="68%" />
+</div>
+
+
 
 <!-- ===== Estadistics of how i´m going  ===== -->
 
