@@ -29,6 +29,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaq-26&bg_color=0d1117&color=ff8c69&line=ff6a3d&point=ffa07a&area=true&area_color=ff7f50" />
 </p>
 
+## Current Streak 
+<!-- ===== Current Streak ===== -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=joaq-26&theme=dark&background=0d1117&hide_border=true&border_radius=10" alt="GitHub Streak" width="68%" />
+</div>
+
+
 <!-- ===== Snake and Laptop  ===== -->
 
 <div dir="auto" align="legth">
@@ -37,11 +44,6 @@
 </div>
 
 
-
-<!-- ===== Current Streak ===== -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaq-26&theme=dark&background=0d1117&hide_border=true&border_radius=10" alt="GitHub Streak" width="68%" />
-</div>
 
 
 
