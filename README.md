@@ -29,6 +29,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaq-26&bg_color=0d1117&color=ff8c69&line=ff6a3d&point=ffa07a&area=true&area_color=ff7f50" />
 </p>
 
+
+
 ## Current Streak 
 <!-- ===== Current Streak ===== -->
 <div align="center">
@@ -42,8 +44,6 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg"><img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="70%" alt="Snake Game" style="max-width: 100%;"></a> 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="240px" alt="Computer illustration" style="max-width: 100%;"></a>
 </div>
-
-
 
 
 
