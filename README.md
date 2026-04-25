@@ -34,7 +34,12 @@ My current skills:
 
 
 <!-- ===== ACTIVITY ===== -->
-## 📈Contribution Activity
+<div align="leght">
+<h2>
+   📈Contribution Activity
+</h2>
+
+
 </div>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaq-26&bg_color=4a4a4a&color=ffffff&line=e6e6e6&point=ffffff&area=true&area_color=e6e6e6" />
