@@ -34,17 +34,17 @@ My current skills:
 
 <!-- ===== ACTIVITY ===== -->
 ## 📈Contribution Activity
+</div>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaq-26&bg_color=0:ff4d4d,100:ff2400&color=ff4d4d&line=ff4d4d&point=ffa07a&area=true&area_color=0:ff4d4d,100:ff2400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaq-26&bg_color=374151&color=ffffff&line=ff4d4d&point=ffa07a&area=true&area_color=ff4d4d" />
 </p>
-
 
 
 ## 📊 Current Streak 
 <!-- ===== Current Streak ===== -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=joaq-26&theme=dark&background=374151&hide_border=true&border_radius=10&text_color=ff4d4d&ring=ff4d4d&fire=ff4d4d&currStreakLabel=ff4d4d" alt="GitHub Streak" width="68%" />
-</div>
+
 
 
 
