@@ -43,12 +43,10 @@ My current skills:
 ## 📊 Current Streak 
 <!-- ===== Current Streak ===== -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaq-26&theme=dark&background=transparent&hide_border=true&border_radius=10" alt="GitHub Streak" width="68%" />
+  <img src="https://streak-stats.demolab.com?user=joaq-26&theme=dark&background=374151&hide_border=true&border_radius=10&text_color=ff4d4d&ring=ff4d4d&fire=ff4d4d&currStreakLabel=ff4d4d" alt="GitHub Streak" width="68%" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaq-26&theme=github_dark&background=transparent&hide_border=true&border_radius=10&text_color=ff4d4d&ring=ff4d4d&fire=ff4d4d&currStreakLabel=ff4d4d" alt="GitHub Streak" width="68%" />
-</div>
+
 
 
 <!-- ===== Snake and Laptop  ===== -->
