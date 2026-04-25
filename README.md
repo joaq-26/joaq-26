@@ -35,7 +35,7 @@ My current skills:
 <!-- ===== ACTIVITY ===== -->
 ## 📈Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaq-26&bg_color=0d1117&color=ff8c69&line=ff6a3d&point=ffa07a&area=true&area_color=ff7f50" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaq-26&bg_color=0:ff7f50,100:ff2400&color=ff8c69&line=ff6a3d&point=ffa07a&area=true&area_color=0:ff7f50,100:ff2400" />
 </p>
 
 
