@@ -13,6 +13,11 @@
 
 <!-- ===== What im currently doing  ===== -->
 <h3 align="left">
+  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=4a4a4a)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+  
   <p> • I´m currently learning some programing and creating new ideas. </p>
   <p> • Right now I´m with Java, SQL and a bit of JavaScript. </p>
 
@@ -26,11 +31,9 @@ My current skills:
 -->
 
 <!-- ===== Languages and others ===== -->
-<!--
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
--->
+
+
+
 
 
 <!-- ===== ACTIVITY ===== -->
