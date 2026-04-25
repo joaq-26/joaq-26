@@ -1,26 +1,34 @@
-
+<!-- == Title == -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff7f50" />
+<img width="1500" src="https://capsule-render.vercel.app/api?type=waving&color=ff7f50&customColorList=6,11,20&height=200&section=header&text=Joaquín%20Iturralde%20Suarez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ESIC%20University%20%7C%20DataScience%20%7C%20Student&descAlignY=55&descSize=16"/>
 </div>
 
-
-
+<!-- === Subtitle of my Update work === -->
 <h1 align="left">
-   Hi there, I´m Joaquín  
-    <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+  Where I’m at:  
 </h1>
 
-<!-- ===== Languages and others ===== -->
+<!-- ===== What im currently doing  ===== -->
+<h3 align="left">
+  <p> • I´m currently learning some programing and creating new ideas. </p>
+  <p> • Right now I´m with Java, SQL and a bit of JavaScript. </p>
 
+</h3>
+<br><br>
+
+<!--
+<h2 align="left">
+My current skills:
+</h2>
+-->
+
+<!-- ===== Languages and others ===== -->
+<!--
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
-
-
-<!-- ===== What im currently doing  ===== -->
-### I´m currently learning some programing and creating new ideas. 
-### Right now I´m with Java, SQL and a bit of JavaScript.
+-->
 
 
 <!-- ===== ACTIVITY ===== -->
