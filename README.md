@@ -1,6 +1,6 @@
 <!-- == Title == -->
 <div align="center">
-<img width="1500" src="https://capsule-render.vercel.app/api?type=waving&color=0:e6e6e6,100:4a4a4a&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I´m%20Joaquín&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="1500" src="https://capsule-render.vercel.app/api?type=waving&color=0:9a9a9a,100:4a4a4a&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I´m%20Joaquín&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!--&desc=Student%20University%20%7C%20DataScience%20%7C%20Learner&descAlignY=55&descSize=16"/>-->
 
@@ -109,4 +109,4 @@ Right now I´m with Java, SQL and a bit of JavaScript.
 
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e6e6e6,100:4a4a4a&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9a9a9a,100:4a4a4a&height=120&section=footer&animation=fadeIn"/>
