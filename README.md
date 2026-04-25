@@ -45,6 +45,9 @@ My current skills:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=joaq-26&theme=dark&background=transparent&hide_border=true&border_radius=10" alt="GitHub Streak" width="68%" />
 </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=joaq-26&theme=dark&background=transparent&hide_border=true&border_radius=10&text_color=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" width="68%" />
+</div>
 
 
 <!-- ===== Snake and Laptop  ===== -->
