@@ -1,7 +1,7 @@
 <!-- == Title == -->
 <div align="center">
 <img width="1500" src="https://capsule-render.vercel.app/api?type=waving&color=0:9a9a9a,100:4a4a4a&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I´m%20Joaquín&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
+</div>
 <!--&desc=Student%20University%20%7C%20DataScience%20%7C%20Learner&descAlignY=55&descSize=16"/>-->
 
 
@@ -12,6 +12,7 @@
 </h1>
 
 <!-- ===== What im currently doing  ===== -->
+<!-- ===== Languages and others ===== -->
 <h3 align="left">
   
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=4a4a4a)&nbsp;
@@ -23,18 +24,20 @@
 
 </h3>
 <br><br>
-
+</div>
 <!--
 <h2 align="left">
 My current skills:
 </h2>
 -->
 
-<!-- ===== Languages and others ===== -->
 
 
+<p> </p>
 
+<p> </p>
 
+<p> </p>
 
 <!-- ===== ACTIVITY ===== -->
 <div align="leght">
@@ -46,8 +49,8 @@ My current skills:
 </div>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaq-26&bg_color=4a4a4a&color=ffffff&line=e6e6e6&point=ffffff&area=true&area_color=e6e6e6" />
+  
 </p>
-
 
 ## 📊 Current Streak 
 <!-- ===== Current Streak ===== -->
