@@ -7,7 +7,7 @@
 <!-- === Subtitle of my Update work === -->
 <h1 align="left">
   <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
-  Where I’m at:  
+  Where I’m at  
 </h1>
 
 <!-- ===== What im currently doing  ===== -->
