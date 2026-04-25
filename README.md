@@ -1,6 +1,6 @@
 <!-- == Title == -->
 <div align="center">
-<img width="1500" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:ff2400&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I´m%20Joaquín&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="1500" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d4d,100:ff2400&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I´m%20Joaquín&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
   <!--&desc=Student%20University%20%7C%20DataScience%20%7C%20Learner&descAlignY=55&descSize=16"/>-->
 </div>
 
@@ -35,7 +35,7 @@ My current skills:
 <!-- ===== ACTIVITY ===== -->
 ## 📈Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaq-26&bg_color=0:ff7f50,100:ff2400&color=ff8c69&line=ff6a3d&point=ffa07a&area=true&area_color=0:ff7f50,100:ff2400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaq-26&bg_color=0:ff4d4d,100:ff2400&color=ff4d4d&line=ff4d4d&point=ffa07a&area=true&area_color=0:ff4d4d,100:ff2400" />
 </p>
 
 
@@ -45,8 +45,9 @@ My current skills:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=joaq-26&theme=dark&background=transparent&hide_border=true&border_radius=10" alt="GitHub Streak" width="68%" />
 </div>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaq-26&theme=dark&background=transparent&hide_border=true&border_radius=10&text_color=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" width="68%" />
+  <img src="https://streak-stats.demolab.com?user=joaq-26&theme=github_dark&background=transparent&hide_border=true&border_radius=10&text_color=ff4d4d&ring=ff4d4d&fire=ff4d4d&currStreakLabel=ff4d4d" alt="GitHub Streak" width="68%" />
 </div>
 
 
