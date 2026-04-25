@@ -3,32 +3,6 @@
 <img width="1500" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d4d,100:ff2400&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I´m%20Joaquín&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!--&desc=Student%20University%20%7C%20DataScience%20%7C%20Learner&descAlignY=55&descSize=16"/>-->
-</div>
-
-
-<p align="center">
-  <picture>
-    
-  <!-- 🌙 Dark mode -->
-  
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d4d,100:ff2400&height=200&section=header&text=Hi%20there,%20I'm%20Joaquín&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32">
-
-   <!-- ☀️ Light mode -->
-   
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f7f,100:ff2400&height=200&section=header&text=Hi%20there,%20I'm%20Joaquín&fontSize=42&fontColor=374151&animation=twinkling&fontAlignY=32">
-
-
-<!-- fallback -->
-    
-    
-<p align="center">
-  <img width="1500" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d4d,100:ff2400&height=200&section=header&text=Hi%20there%2C%20I%27m%20Joaquin&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32"/>
-</p>
-  </picture>
-</p>
-
-
-
 
 
 <!-- === Subtitle of my Update work === -->
