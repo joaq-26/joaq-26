@@ -47,18 +47,6 @@ My current skills:
   <img src="https://streak-stats.demolab.com?user=joaq-26&theme=dark&background=4a4a4a&hide_border=true&border_radius=10&text_color=ff4d4d&ring=e6e6e6&fire=ff4d4d&currStreakLabel=e6e6e6" alt="GitHub Streak" width="68%" />
 
 
-
-
-
-<!-- ===== Snake and Laptop  ===== -->
-
-<div dir="auto" align="legth">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg"><img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="70%" alt="Snake Game" style="max-width: 100%;"></a> 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="240px" alt="Computer illustration" style="max-width: 100%;"></a>
-</div>
-
-
-
 <!-- ===== Estadistics of how i´m going  ===== -->
 
 <!--
