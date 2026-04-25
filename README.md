@@ -1,6 +1,7 @@
 <!-- == Title == -->
 <div align="center">
-<img width="1500" src="https://capsule-render.vercel.app/api?type=waving&color=ff7f50&customColorList=6,11,20&height=200&section=header&text=Joaquín%20Iturralde%20Suarez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ESIC%20University%20%7C%20DataScience%20%7C%20Student&descAlignY=55&descSize=16"/>
+<img width="1500" src="https://capsule-render.vercel.app/api?type=waving&color=ff7f50&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I´m%20Joaquín&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <!--&desc=Student%20University%20%7C%20DataScience%20%7C%20Learner&descAlignY=55&descSize=16"/>-->
 </div>
 
 <!-- === Subtitle of my Update work === -->
