@@ -34,13 +34,13 @@ My current skills:
 
 
 ### Program Languages 
-[![Program](https://skillicons.dev/icons?i=java,mysql&theme=dark)](https://skillicons.dev)
+![Program](https://skillicons.dev/icons?i=java,mysql&theme=dark)
 
 ### Design Tools
-[![Desing](https://skillicons.dev/icons?i=ps,ai,pr&perline=6)](https://skillicons.dev)
+![Desing](https://skillicons.dev/icons?i=ps,ai,pr&perline=6)
 
 ### Tools 
-[![Tools](https://skillicons.dev/icons?i=vscode,idea&perline=6)](https://skillicons.dev)
+![Tools](https://skillicons.dev/icons?i=vscode,idea&perline=6)
 
 <p> </p>
 
