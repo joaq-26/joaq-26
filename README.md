@@ -14,10 +14,10 @@
 <!-- ===== What im currently doing  ===== -->
 <!-- ===== Languages and others ===== -->
 <h3 align="left">
-  
-![Java](https://img.shields.io/badge/-Java-4a4a4a?style=flat&logo=Java&logoColor=4a4a4a)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-4a4a4a?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-4a4a4a?style=flat&logo=adobe-photoshop)&nbsp;
+
+
+
+
 
 
   <p> • I´m currently learning some programing and creating new ideas. </p>
@@ -33,6 +33,14 @@ My current skills:
 -->
 
 
+### Program Languages 
+[![Program](https://skillicons.dev/icons?i=java,mysql&theme=dark)](https://skillicons.dev)
+
+### Design Tools
+[![Desing](https://skillicons.dev/icons?i=ps,ai,pr&perline=6)](https://skillicons.dev)
+
+### Tools 
+[![Tools](https://skillicons.dev/icons?i=vscode,idea&perline=6)](https://skillicons.dev)
 
 <p> </p>
 
