@@ -21,7 +21,7 @@
 
 
   <p> • I´m currently learning some programing and creating new ideas. </p>
-  <p> • Right now I´m with Java, SQL and a bit of JavaScript. </p>
+  <p> • Right now I´m with a bit of JavaScript. </p>
 
 </h3>
 <br><br>
