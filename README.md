@@ -35,24 +35,7 @@
 
 <br>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=joaq-26&show_icons=true&theme=dark&bg_color=4a4a4a&title_color=ffffff&text_color=e6e6e6&icon_color=e6e6e6&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaq-26&layout=compact&theme=dark&bg_color=4a4a4a&title_color=ffffff&text_color=e6e6e6&hide_border=true" />
-
-</div>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaq-26&bg_color=4a4a4a&color=ffffff&line=e6e6e6&point=ffffff&area=true&area_color=e6e6e6" />
-</p>
-
-<p align="center">
-  <img width="68%" src="https://streak-stats.demolab.com?user=joaq-26&theme=dark&background=4a4a4a&hide_border=true&border_radius=10&text_color=ffffff&ring=e6e6e6&fire=ff4d4d&currStreakLabel=e6e6e6" alt="GitHub Streak" />
-</p>
-
-<br>
 
 ## 🔗 Connect with me
 
