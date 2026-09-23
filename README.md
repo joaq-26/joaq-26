@@ -23,7 +23,7 @@
 
 **Languages & Databases**
 
-![Languages](https://skillicons.dev/icons?i=java,js,py,mysql&theme=dark)
+![Languages](https://skillicons.dev/icons?i=java,py,mysql&theme=dark)
 
 **Design Tools**
 
