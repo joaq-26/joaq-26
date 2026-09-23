@@ -43,11 +43,16 @@
   <a href="https://github.com/joaq-26">
     <img src="https://img.shields.io/badge/GitHub-joaq--26-181717?style=for-the-badge&logo=github" />
   </a>
+
+  <a href="https://linkedin.com/in/joaquín-iturralde">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
   <!-- Agregá acá más badges si querés, por ejemplo LinkedIn o email:
   <a href="mailto:tu-email@ejemplo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tu-usuario">
+  <a href="https://linkedin.com/in/joaquín-iturralde">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   -->
