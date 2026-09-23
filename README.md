@@ -10,16 +10,16 @@
 
 <br>
 
-## 👋 About Me
+## About Me
 
-- 🎓 University student exploring programming and data science
-- 💻 Currently focused on **JavaScript**, with a bit of **Python** on the side
-- 💡 I enjoy turning ideas into small projects while I learn
-- 📫 Reach out via my [GitHub profile](https://github.com/joaq-26)
+- University student exploring programming and data science
+- Currently focused on **JavaScript**, with a bit of **Python** on the side
+- I enjoy turning ideas into small projects while I learn
+- Reach out via my [GitHub profile](https://github.com/joaq-26)
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Databases**
 
@@ -37,7 +37,7 @@
 
 
 
-## 🔗 Connect with me
+## Connect with me
 
 <p align="center">
   <a href="https://github.com/joaq-26">
