@@ -27,7 +27,7 @@
 
 **Design Tools**
 
-![Design](https://skillicons.dev/icons?i=ps,ai,pr&theme=dark)
+![Design](https://skillicons.dev/icons?i=ps,ai,pr,ae&theme=dark)
 
 **Dev Tools**
 
