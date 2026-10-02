@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9a9a9a,100:4a4a4a&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Joaqu%C3%ADn&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <a href="https://linkedin.com/in/joaqu%C3%ADn-iturralde">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E6E6E6&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Data+Science+Enthusiast;Always+learning+something+new" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E6E6E6&center=true&vCenter=true&width=600&lines=Data+Science+%26+Business+Analytics+Student;Data+Science+Enthusiast;Always+learning+something+new" alt="Typing SVG"/>
 </a>
 
 </div>
