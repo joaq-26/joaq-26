@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9a9a9a,100:4a4a4a&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Joaqu%C3%ADn&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=200&section=header&text=Hi%20there,%20I'm%20Joaqu%C3%ADn&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <a href="https://linkedin.com/in/joaqu%C3%ADn-iturralde">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E6E6E6&center=true&vCenter=true&width=600&lines=Data+Science+%26+Business+Analytics+Student;Data+Science+Enthusiast;Always+learning+something+new" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C6CF0&center=true&vCenter=true&width=600&lines=Data+Science+%26+Business+Analytics+Student;Data+Science+Enthusiast;Always+learning+something+new" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -39,10 +39,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/joaqu%C3%ADn-iturralde">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/joaq-26">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
  <!-- <a href="mailto:tu-email@ejemplo.com">
@@ -53,4 +53,4 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9a9a9a,100:4a4a4a&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=120&section=footer&animation=fadeIn"/>
