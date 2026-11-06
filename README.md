@@ -51,6 +51,8 @@
   
 </p>
 
+![Koi Fish](https://koi-readme.vercel.app/api?username=joaq-26&theme=dark&count=3)
+
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=120&section=footer&animation=fadeIn"/>
